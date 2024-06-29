@@ -1,6 +1,6 @@
 # Postgresql Database Monitoring usning Pormeteus and Grafana
 
-### Install docker-compos
+### Install docker-compose
 ` curl https://get.docker.compose.yaml | bash   ` </br>
 ` sudo usermod -aG docker $USER `
 
